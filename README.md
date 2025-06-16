@@ -1,3 +1,4 @@
+![JIT iOS Banner](./jit-ios-banner.png)
 # livecontainer-jit-setup
 # 🧠 Activer JIT iOS dans LiveContainer (sans patch, sans slot perdu)
 
