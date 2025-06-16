@@ -1,4 +1,8 @@
 ![JIT iOS Banner](./jit-ios-banner.png)
+![Platform](https://img.shields.io/badge/platform-iOS-blue)
+![Status](https://img.shields.io/badge/status-tested-green)
+![JIT](https://img.shields.io/badge/JIT-compatible-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 # livecontainer-jit-setup
 # 🧠 Activer JIT iOS dans LiveContainer (sans patch, sans slot perdu)
 
