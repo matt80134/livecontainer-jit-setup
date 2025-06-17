@@ -75,6 +75,6 @@ Tu crées **un seul LiveContainer centralisé**, tu y actives la mémoire étend
 ---
 
 ## 🔗 Ressources utiles
-- [SideStore]https://sidestore.io
-- [Get More RAM]https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/Entitlement.ipa
-- [Stikdebeug]https://apps.apple.com/fr/app/stikdebug/id6744045754
+- [SideStore]https://sidestore.io/sidestore)
+- [Get More RAM]https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/Entitlement.ipa/Get More Ram)
+- [Stikdebeug]https://apps.apple.com/fr/app/stikdebug/id6744045754/stikdebeug)
