@@ -1,4 +1,4 @@
-![JIT iOS Banner](./jit-ios-banner.png)
+se![JIT iOS Banner](./jit-ios-banner.png)
 ![Platform](https://img.shields.io/badge/platform-iOS-blue)
 ![Status](https://img.shields.io/badge/status-tested-green)
 ![JIT](https://img.shields.io/badge/JIT-compatible-brightgreen)
@@ -11,7 +11,6 @@ Astuce ultime pour activer la mémoire étendue (JIT) dans un LiveContainer iOS,
 ---
 
 ## 🎯 Objectif
-
 Activer JIT sur des émulateurs iOS (MelonX, PPSSPP, DolphiniOS, etc.) **sans signer chaque app** ni multiplier les LiveContainer.
 
 ---
@@ -75,6 +74,14 @@ Tu crées **un seul LiveContainer centralisé**, tu y actives la mémoire étend
 ---
 
 ## 🔗 Ressources utiles
-- [SideStore]https://sidestore.io)
-- [Get More RAM]https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/Entitlement.ipa)
-- [Stikdebeug]https://apps.apple.com/fr/app/stikdebug)
+
+### Outils nécessaires
+
+- [**SideStore**](https://sidestore.io)  
+  Outil de sideloading pour iOS sans jailbreak.
+
+- [**Get More RAM**](https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/Entitlement.ipa)  
+  IPA permettant d’activer la mémoire étendue sur certains émulateurs (comme PPSSPP, DolphiniOS, MelonX...).
+
+- [**Stikdebeug**](https://apps.apple.com/fr/app/stikdebug)  
+  Application iOS utile pour l'injection JIT et le débogage local.
